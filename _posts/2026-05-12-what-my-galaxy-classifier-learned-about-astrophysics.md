@@ -1,5 +1,5 @@
 ---
-title: "What My Galaxy Classifier Learned About Astrophysics (Without Being Told)"
+title: "My Neural Network Rediscovered a 50-Year-Old Astronomy Problem. Here is How."
 date: 2026-05-12
 categories: [Machine Learning, Astrophysics]
 tags: [deep-learning, computer-vision, grad-cam, pytorch, galaxy-morphology, resnet]
