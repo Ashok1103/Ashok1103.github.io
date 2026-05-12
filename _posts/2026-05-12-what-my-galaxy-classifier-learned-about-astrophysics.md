@@ -61,7 +61,6 @@ the accuracy number looks fine.
 ![Grad-CAM heatmap on correctly classified spiral galaxies](/assets/img/posts/gradcam_spirals.png)
   Grad-CAM activation map for correctly classified spirals. 
   The model attends to the disk and spiral arms, not the central bulge.*
--->
 
 ---
 
@@ -96,7 +95,6 @@ disappear entirely.
 ![Edge-on disk vs smooth elliptical at survey resolution](/assets/img/posts/gradcam_wrong.png)
      *Left: an edge-on disk galaxy misclassified as smooth elliptical. Right: 
      a true smooth elliptical. The Grad-CAM maps are nearly identical.*
--->
 
 This is not a model failure. It is a **projection effect**, and astronomers 
 know it well. Without additional data such as spectroscopy (which reveals 
