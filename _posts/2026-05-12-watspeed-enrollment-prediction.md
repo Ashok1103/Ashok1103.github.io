@@ -1,5 +1,5 @@
 ---
-title: "What a 0.59 AUC Score Taught Me More Than 0.95 Ever Could"
+title: "What a 0.59 AUC Score taught me more than 0.95 ever could"
 date: 2026-05-12
 categories: [Machine Learning, Data Science]
 tags: [random-forest, scikit-learn, feature-engineering,
