@@ -1,5 +1,5 @@
 ---
-title: "My Neural Network rediscovered a 50-year-old Astronomy problem. Here is how."
+title: "My Neural Network rediscovered a 50-year-old Astronomy problem"
 date: 2026-05-12
 categories: [Machine Learning, Astrophysics]
 tags: [deep-learning, computer-vision, grad-cam, pytorch, galaxy-morphology, resnet]
